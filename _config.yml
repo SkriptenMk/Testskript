@@ -30,3 +30,7 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+
+sphinx:
+  config:
+    pygments_style: 'default'  # Replace 'default' with your desired Pygments style
